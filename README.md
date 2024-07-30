@@ -25,9 +25,9 @@ python base.py -r 1.txt
 确保传递给 -m 的字符串或者文件中的内容是有效的base编码。
 脚本会尝试所有支持的base编码方式，并返回最终解码结果。
 ## 支持的编码
-base64
-base32
-base16
-base85
+- base64
+- base32
+- base16
+- base85
 # 作者 - TiramisuPS
 
